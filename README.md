@@ -2,8 +2,8 @@
 ### MODELS
 
 ### DATASET
-The 2016 NIH-AAPM-Mayo Clinic Low Dose CT Grand Challenge by Mayo Clinic    
-https://www.aapm.org/GrandChallenge/LowDoseCT/
+Low Dose CT Image and Projection Data(LDCT-and-Projection-data) in The Cancer Imaging Archive(TCIA).
+https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758026
 ### GUI
 ![ED](https://user-images.githubusercontent.com/57568342/120898944-cdb02d00-c65f-11eb-9859-38324cc9d418.png)
 
