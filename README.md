@@ -19,9 +19,9 @@ Low Dose CT Image and Projection Data([LDCT-and-Projection-data](https://wiki.ca
 - View CT images(*.dcm) and save images as other type.
 
 ### Parameters
-- Matrix: 64-2048
-- Window Width: 1-4096
-- Window Level: -1024-3071
+- Matrix: [64, 2048]
+- Window Width: [1, 4096]
+- Window Level: [1024, 3071]
 - Save Format: JPG, PNG and BMP.
 
 ![DV](https://user-images.githubusercontent.com/57568342/120813048-1ee8ef80-c580-11eb-9080-c75fbdd60521.png)
