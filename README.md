@@ -15,13 +15,14 @@ Low Dose CT Image and Projection Data([LDCT-and-Projection-data](https://wiki.ca
 ![ED](https://user-images.githubusercontent.com/57568342/120898944-cdb02d00-c65f-11eb-9859-38324cc9d418.png)
 
 ## Dicom Viewer
-Dicom Viewer v1.0    [Download](https://github.com/BennyZhang-Codes/LDCT-denoising-with-Deep-Learning-and-Dicom-Viewer/releases/download/v1.0/Dicom.Viewer.1.0.exe)
-<div align='center' ><font>View *.dcm files and save images as JPG, PNG or BMP. </font></div>
+- Dicom Viewer v1.0    [Download](https://github.com/BennyZhang-Codes/LDCT-denoising-with-Deep-Learning-and-Dicom-Viewer/releases/download/v1.0/Dicom.Viewer.1.0.exe)
+- View CT images(*.dcm) and save images as other type.
 
 ### Parameters
 - Matrix: 64-2048
 - Window Width: 1-4096
 - Window Level: -1024-3071
+- Save Format: JPG, PNG and BMP.
 
 ![DV](https://user-images.githubusercontent.com/57568342/120813048-1ee8ef80-c580-11eb-9080-c75fbdd60521.png)
 
