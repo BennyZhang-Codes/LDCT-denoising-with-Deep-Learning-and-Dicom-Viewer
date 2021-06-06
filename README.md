@@ -5,11 +5,11 @@
 ### 1.1 Dataset
 Low Dose CT Image and Projection Data([LDCT-and-Projection-data](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758026)) in The Cancer Imaging Archive(TCIA).
 ### 1.2 Models
+[Trained models](LDCT_Denoising/GUI/model/)
 - TS-Net
 - TS-DenseNet
 - RED-CNN_MSE
-- RED-CNN_SSIM
-
+- RED-CNN_SSIM  
 ![models](https://user-images.githubusercontent.com/57568342/120911784-9d4aac00-c6bc-11eb-9e60-397efa554071.png)
 
 ### 1.3 Image Preprocessing
