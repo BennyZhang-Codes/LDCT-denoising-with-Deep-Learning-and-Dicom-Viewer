@@ -1,10 +1,12 @@
-![GUI-Logo](https://user-images.githubusercontent.com/57568342/120915485-7d27e680-c6d6-11eb-8267-43aa8d59709b.png)
 <p align="center">
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
 	<img src="https://user-images.githubusercontent.com/57568342/120915485-7d27e680-c6d6-11eb-8267-43aa8d59709b.png#pic_center" width=""/>
 </a>
 </p>
-# LDCT Denoising and Dicom Viewer
+
+<h1 align="center">LDCT Denoising and Dicom Viewer</h1>
+<h1 align="center">Benny</h1>
+
 ## 1 LDCT Denoise
 ### 1.1 Dataset
 Low Dose CT Image and Projection Data([LDCT-and-Projection-data](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758026)) in The Cancer Imaging Archive(TCIA).
