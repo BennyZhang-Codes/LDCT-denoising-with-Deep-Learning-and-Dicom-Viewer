@@ -1,5 +1,9 @@
 ![GUI-Logo](https://user-images.githubusercontent.com/57568342/120915485-7d27e680-c6d6-11eb-8267-43aa8d59709b.png)
-
+<p align="center">
+<a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
+	<img src="https://user-images.githubusercontent.com/57568342/120915485-7d27e680-c6d6-11eb-8267-43aa8d59709b.png#pic_center" width=""/>
+</a>
+</p>
 # LDCT Denoising and Dicom Viewer
 ## 1 LDCT Denoise
 ### 1.1 Dataset
