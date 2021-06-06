@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/">
+    <file>qrc/GUI_Logo.ico</file>
+    <file>qrc/FullScreeen.png</file>
+    <file>qrc/About.png</file>
+    <file>qrc/file.png</file>
+    <file>qrc/folder.png</file>
+    <file>qrc/Browse.png</file>
+    <file>qrc/Maximized.png</file>
+    <file>qrc/Exit.png</file>
+  </qresource>
+</RCC>
