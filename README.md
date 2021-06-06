@@ -1,11 +1,11 @@
 <p align="center">
-<a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
+<a href="https://github.com/BennyZhang-Codes/LDCT-denoising-with-Deep-Learning-and-Dicom-Viewer" target="_blank">
 	<img src="https://user-images.githubusercontent.com/57568342/120915485-7d27e680-c6d6-11eb-8267-43aa8d59709b.png#pic_center" width=""/>
 </a>
 </p>
 
 <h1 align="center">LDCT Denoising and Dicom Viewer</h1>
-<h3 align="center">Benny&emsp;2021.06.06</h3>
+<h3 align="center">Benny&emsp;2021.06.06&emsp;Chengdu, China</h3>
 
 ## 1 LDCT Denoise
 ### 1.1 Dataset
