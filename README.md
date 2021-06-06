@@ -10,11 +10,14 @@ Low Dose CT Image and Projection Data([LDCT-and-Projection-data](https://wiki.ca
 - RED-CNN_MSE
 - RED-CNN_SSIM
 ![models](https://user-images.githubusercontent.com/57568342/120911784-9d4aac00-c6bc-11eb-9e60-397efa554071.png)
-### 1.3 Example
+### 1.3 Image Preprocessing
+![Preprocessing](https://user-images.githubusercontent.com/57568342/120915757-24f1e400-c6d8-11eb-9cc5-c3e7983a037f.png)
+
+### 1.4 Example
 
 ![L123_400_40](https://user-images.githubusercontent.com/57568342/120914590-b6aa2300-c6d1-11eb-9c2e-600f374296e3.png)
 
-### 1.4 GUI
+### 1.5 GUI
 ![ED](https://user-images.githubusercontent.com/57568342/120898944-cdb02d00-c65f-11eb-9859-38324cc9d418.png)
 
 ## 2 Dicom Viewer
