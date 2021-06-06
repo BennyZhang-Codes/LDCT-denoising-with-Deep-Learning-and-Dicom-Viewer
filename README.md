@@ -20,12 +20,15 @@ Low Dose CT Image and Projection Data([LDCT-and-Projection-data](https://wiki.ca
 ![L123_400_40](https://user-images.githubusercontent.com/57568342/120917609-bbc39e00-c6e2-11eb-974e-b01bbc78e0fc.png)
 
 ### 1.5 GUI
+[Graphical User Interface](LDCT_Denoising/GUI/)  
+
 ![ED](https://user-images.githubusercontent.com/57568342/120898944-cdb02d00-c65f-11eb-9859-38324cc9d418.png)
 
 ## 2 Dicom Viewer
 ### 2.1 Introduction
 - View CT images(*.dcm) and save images as other type.
-- Dicom Viewer v1.0    [Download](https://github.com/BennyZhang-Codes/LDCT-denoising-with-Deep-Learning-and-Dicom-Viewer/releases/download/v1.0/Dicom.Viewer.1.0.exe)
+- Dicom Viewer v1.0.exe    [Download](https://github.com/BennyZhang-Codes/LDCT-denoising-with-Deep-Learning-and-Dicom-Viewer/releases/download/v1.0/Dicom.Viewer.1.0.exe)
+- [Editable Files]()
 
 ### 2.2 Parameters
 - Matrix: [64, 2048]
