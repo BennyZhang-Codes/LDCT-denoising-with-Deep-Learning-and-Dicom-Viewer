@@ -16,7 +16,7 @@ Low Dose CT Image and Projection Data([LDCT-and-Projection-data](https://wiki.ca
 ![Preprocessing](https://user-images.githubusercontent.com/57568342/120915757-24f1e400-c6d8-11eb-9cc5-c3e7983a037f.png)
 
 ### 1.4 Example
-![L123_400_40](https://user-images.githubusercontent.com/57568342/120914590-b6aa2300-c6d1-11eb-9c2e-600f374296e3.png)
+![L123_400_40](https://user-images.githubusercontent.com/57568342/120917609-bbc39e00-c6e2-11eb-974e-b01bbc78e0fc.png)
 
 ### 1.5 GUI
 ![ED](https://user-images.githubusercontent.com/57568342/120898944-cdb02d00-c65f-11eb-9859-38324cc9d418.png)
