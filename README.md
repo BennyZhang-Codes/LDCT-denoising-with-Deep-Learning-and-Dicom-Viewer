@@ -18,5 +18,9 @@ Low Dose CT Image and Projection Data([LDCT-and-Projection-data](https://wiki.ca
 [Download](https://github.com/BennyZhang-Codes/LDCT-denoising-with-Deep-Learning-and-Dicom-Viewer/releases/download/v1.0/Dicom.Viewer.1.0.exe)
 <div align='center' ><font>View *.dcm files and save images as JPG, PNG or BMP. </font></div>
 
+- Matrix: 64-2048
+- Window Width: 1-4096
+- Window Level: -1024-3071
+
 ![DV](https://user-images.githubusercontent.com/57568342/120813048-1ee8ef80-c580-11eb-9080-c75fbdd60521.png)
 
