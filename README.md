@@ -13,7 +13,7 @@ Low Dose CT Image and Projection Data([LDCT-and-Projection-data](https://wiki.ca
 ![models](https://user-images.githubusercontent.com/57568342/120911784-9d4aac00-c6bc-11eb-9e60-397efa554071.png)
 
 ### 1.3 Image Preprocessing
-[Codes](LDCT-Denoising-with-DL/Image_Preprocessing.ipynb)
+[Codes](LDCT_Denoising/Image_Preprocessing.ipynb)
 ![Preprocessing](https://user-images.githubusercontent.com/57568342/120915757-24f1e400-c6d8-11eb-9cc5-c3e7983a037f.png)
 
 ### 1.4 Example
