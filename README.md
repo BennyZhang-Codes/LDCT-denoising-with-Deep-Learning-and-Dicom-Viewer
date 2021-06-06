@@ -6,7 +6,6 @@
 - RED-CNN_SSIM
 ![models](https://user-images.githubusercontent.com/57568342/120911784-9d4aac00-c6bc-11eb-9e60-397efa554071.png)
 
-
 ### DATASET
 Low Dose CT Image and Projection Data([LDCT-and-Projection-data](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758026)) in The Cancer Imaging Archive(TCIA).
 
@@ -15,8 +14,8 @@ Low Dose CT Image and Projection Data([LDCT-and-Projection-data](https://wiki.ca
 ![ED](https://user-images.githubusercontent.com/57568342/120898944-cdb02d00-c65f-11eb-9859-38324cc9d418.png)
 
 ## Dicom Viewer
-<div align='center' ><font>View *.dcm files and save images as JPG, PNG or BMP. </font></div>
 [Download](https://github.com/BennyZhang-Codes/LDCT-denoising-with-Deep-Learning-and-Dicom-Viewer/releases/download/v1.0/Dicom.Viewer.1.0.exe)
+<div align='center' ><font>View *.dcm files and save images as JPG, PNG or BMP. </font></div>
 
 ![DV](https://user-images.githubusercontent.com/57568342/120813048-1ee8ef80-c580-11eb-9080-c75fbdd60521.png)
 
