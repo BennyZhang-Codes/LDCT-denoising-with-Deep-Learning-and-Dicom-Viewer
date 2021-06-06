@@ -15,7 +15,7 @@ Low Dose CT Image and Projection Data([LDCT-and-Projection-data](https://wiki.ca
 ![ED](https://user-images.githubusercontent.com/57568342/120898944-cdb02d00-c65f-11eb-9859-38324cc9d418.png)
 
 ## Dicom Viewer
-Dicom Viewer v1.0[Download](https://github.com/BennyZhang-Codes/LDCT-denoising-with-Deep-Learning-and-Dicom-Viewer/releases/download/v1.0/Dicom.Viewer.1.0.exe)
+Dicom Viewer v1.0    [Download](https://github.com/BennyZhang-Codes/LDCT-denoising-with-Deep-Learning-and-Dicom-Viewer/releases/download/v1.0/Dicom.Viewer.1.0.exe)
 <div align='center' ><font>View *.dcm files and save images as JPG, PNG or BMP. </font></div>
 
 ### Parameters
